@@ -15,7 +15,8 @@ Pod::Spec.new do |s|
 
   s.homepage = "https://github.com/anugrahdev/Modularization-Core-Module"
 
-  s.source = { :git => "https://github.com/anugrahdev/Modularization-Core-Module.git", :tag => "#{s.version}" }
+  s.source = { :git => "https://github.com/anugrahdev/Modularization-Core-Module.git", 
+               :tag => "#{s.version}" }
 
   s.framework = "UIKit"
 
